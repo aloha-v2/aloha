@@ -15,7 +15,7 @@ export function Hero() {
       </p>
       <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
         <a
-          href="https://github.com/aloha-v2/aloha-os/"
+          href="https://github.com/aloha-v2/AlohaOS-Vibe-Edition"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground transition-transform duration-200 hover:scale-[1.03] active:scale-[0.98]"
