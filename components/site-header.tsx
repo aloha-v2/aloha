@@ -27,7 +27,7 @@ export function SiteHeader() {
             Стек
           </a>
           <a
-            href="https://github.com/aloha-v2/aloha-os/"
+            href="https://github.com/aloha-v2/AlohaOS-Vibe-Edition"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full px-4 py-2 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
